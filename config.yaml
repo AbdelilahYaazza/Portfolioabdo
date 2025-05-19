@@ -68,7 +68,7 @@ params:
     list :
       - degree: engineering diplome
         college: Institut national des posts et telecommunication
-        dates: 2004 - 2009
+        dates: 2024 - 2027
   project:
     title: Projects
     icon: fas fa-project-diagram
