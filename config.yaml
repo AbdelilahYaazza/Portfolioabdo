@@ -1,4 +1,4 @@
-baseURL: https://aafu.pages.dev/
+baseURL: https://fanciful-bubblegum-ca781f.netlify.app/
 # Uncomment below to use aafu as hugo theme. See instructions in README.md
 theme: aafu
 languageCode: en-us
@@ -44,7 +44,6 @@ params:
       expand: true
     - item: experience
     - item: education
-    - item: publication
     - item: project
     - item: skill
     - item: hobby
@@ -92,12 +91,14 @@ params:
     panelId: skill-panel
     icon: fas fa-cogs
     list:
-      - skill: "Skill 1, Skill 2"
+      - skill: Wireshark
         skillrating: 90
-      - skill: Skill 3
-        skillrating: 80
-      - skill: Skill 4
+      - skill: Metasploite
         skillrating: 50
+      - skill: John The Ripper
+        skillrating: 45
+      - skill: Nmap
+        skillrating: 90
   hobby:
     title: Hobbies
     icon: fas fa-gamepad
