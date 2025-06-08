@@ -8,8 +8,9 @@ params:
   title: Portfolio
   author: Abdelilah YAAZZA
   description: AbdelilahYAAAZZA's Portfolio
-  copyright: >-
-    © 2025 Abdelilah YAAZZA.
+copyright: >-
+  © 2025 Abdelilah YAAZZA. All rights reserved.
+
   theme:
     mainTheme: dark
     showAttribute: true
